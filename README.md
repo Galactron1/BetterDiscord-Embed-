@@ -33,33 +33,21 @@ The title should be enclosed in double quotes and there needs to be a `#` infron
 Here's an example:
 
 ```
-/e title: My cool title
+/e title: Command Army
 description: Cool embeds
 Wow! Multiline
 url: https://discordapp.com
 color: #1243ff
 timestamp: true
 footer_image: https://cdn.discordapp.com/embed/avatars/0.png
-footer: WOW! Footers!
+footer: WOW!
 thumbnail: https://cdn.discordapp.com/embed/avatars/0.png
 image: https://cdn.discordapp.com/embed/avatars/0.png
-author: ABCD
+author: Commander 
 author_url: https://discordapp.com
 author_icon: https://cdn.discordapp.com/embed/avatars/0.png
 ```
 
-# FAQ
-
 ## How do I do multiline embeds?
 
 The same way you do it normally with `Shift + Enter`.
-
-## It's not working and I don't know why!?
-
-Create an issue with all the details you can give and I will respond as soon as possible.
-
-# Credit
-
-I would like to give credit to Septeract, https://github.com/hepteract/, as he originally wrote the code this is based off. Here is the original gist for anyone interested.
-
-https://gist.github.com/hepteract/8d9199a6a154dd32a1c4ced97de76043
