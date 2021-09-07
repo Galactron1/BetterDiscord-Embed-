@@ -2,6 +2,8 @@
 
 How to use 
 
+Copy this 
+
 /e title:           Your title
     description:        Your description
     url:                The url your title sends you to when you click it
