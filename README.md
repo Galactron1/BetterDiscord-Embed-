@@ -4,10 +4,6 @@ A plugin for Better Discord that allows you to send fancy embed messages like th
 
 ![Embed Example] https://media.discordapp.net/attachments/712344233612410973/884622011912056872/image0.png
 
-# Disclaimer!
-## It is possible that Discord will ban and delete your account for using this plugin
-I can not be held responsible if this happens. Using custom clients and plugins is a breach of Discord's Terms of Service.
-
 # Installation
 * Clone this repository
 * Copy SendEmbeds.plugin.js to your plugins folder, you can access this by going into your user settings, plugins and clicking "Open Plugin Folder"
